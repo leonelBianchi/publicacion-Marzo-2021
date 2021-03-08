@@ -1,6 +1,6 @@
 # Publicación Marzo 2021 en Jornadas AIE
 
-Código adjunto a publicación titulada "CARACTERIZACIÓN DE LAS DIMENSIONES DE FALLAS EN PILOTES MEDIANTE REDES NEURONALES"  desarrollada por grupo de investigación de análisis y diseño de estructuras del Departamento de Ingeniería Civil en UTN FRBA.
+Código adjunto a publicación titulada "CARACTERIZACIÓN DE LAS DIMENSIONES DE FALLAS EN PILOTES MEDIANTE REDES NEURONALES"  desarrollada por grupo de investigación de análisis y diseño de estructuras del Departamento de Ingeniería Civil en Universidad Tecnológica Nacional Facultad Regional Buenos Aires.
 
 ## Resumen
 
