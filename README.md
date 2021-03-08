@@ -17,13 +17,12 @@ El codigo esta escrito en Python usando librerias de codigo abierto para la mani
 Para ejecutar los codigos es conveniente usar un *environment* en Anaconda y allí instalar las siguientes librerias
 
 ```bash
-pip install tweepy
 pip install pandas
 pip install numpy
 pip install tensorflow
 pip install keras
 pip install scikitlearn
-pip install seaborn
+pip install matplotlib
 ```
 
 
